@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Sabrina from Dhaka, Bangladesh<br><br>- 👩🏻‍💻 I'm working as a UI/UX designer<br>- 📚 I'm currently learning GenAI<br>- ⚡ In my free time I read research papers, illustrate or paint</p>
+<p align="left">I'm Sabrina from Dhaka, Bangladesh<br><br><br>- 📚 I'm currently learning GenAI<br>- ⚡ In my free time I read research papers, illustrate or paint</p>
 
 ###
 
